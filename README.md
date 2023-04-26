@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ogundeji-Blessing
-- 👀 I’m interested in contributing to opensource and Data Analytics
+- 👀 I’m interested in contributing to opensource projects 
 - 🌱 I’m currently learning Python and building ML models
 - 💞️ I’m looking to collaborate on opensource projects
 - 📫 How to reach me ...
